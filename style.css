@@ -1,0 +1,12 @@
+.carousel-caption{
+    background-color: rgba(0, 255, 255, 0.534);
+}
+
+.section-padding{
+    padding: 100px 0;
+}
+
+.carousel-item{
+    height: 100vh;
+    min-height: 300px;
+}
